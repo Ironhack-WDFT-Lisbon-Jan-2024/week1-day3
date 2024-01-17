@@ -1,4 +1,4 @@
-# week1-day3
+# Week 1 | Day 3
 ### Today, we: 
 <ul>
   <li>Knew that JavaScript is not the same as Java!!! </li>
